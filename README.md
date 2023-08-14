@@ -13,9 +13,3 @@
 4. Share a link to the repository where we can review the test
 
 \* This repo is set up to use [Playwright](https://playwright.dev), but you can use any framework you like as long as it uses TypeScript or JavaScript.
-
-## Task #2: manually test carVertical app
-
-1. Download carVertical’s [iOS](https://apps.apple.com/lt/app/carvertical-check-car-history/id1528834650) or [Android](https://play.google.com/store/apps/details?id=com.cvmobileapp) app
-2. Find at least one bug and/or suggest areas for improvement
-3. Report your findings to us
