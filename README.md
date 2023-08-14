@@ -1,6 +1,6 @@
 # Homework for QA Candidate
 
-## Task #1: write a functional E2E automation test
+## Write a functional E2E automation test
 
 1. Clone this repository*
 2. Run `yarn` to install dependencies
